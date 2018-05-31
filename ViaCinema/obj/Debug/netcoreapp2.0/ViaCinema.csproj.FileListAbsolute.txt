@@ -1,0 +1,11 @@
+C:\Users\Nikolay Penkev\Desktop\Nashto\ViaCinema\bin\Debug\netcoreapp2.0\ViaCinema.deps.json
+C:\Users\Nikolay Penkev\Desktop\Nashto\ViaCinema\bin\Debug\netcoreapp2.0\ViaCinema.runtimeconfig.json
+C:\Users\Nikolay Penkev\Desktop\Nashto\ViaCinema\bin\Debug\netcoreapp2.0\ViaCinema.runtimeconfig.dev.json
+C:\Users\Nikolay Penkev\Desktop\Nashto\ViaCinema\bin\Debug\netcoreapp2.0\ViaCinema.dll
+C:\Users\Nikolay Penkev\Desktop\Nashto\ViaCinema\bin\Debug\netcoreapp2.0\ViaCinema.pdb
+C:\Users\Nikolay Penkev\Desktop\Nashto\ViaCinema\obj\Debug\netcoreapp2.0\ViaCinema.csprojAssemblyReference.cache
+C:\Users\Nikolay Penkev\Desktop\Nashto\ViaCinema\obj\Debug\netcoreapp2.0\ViaCinema.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Penkev\Desktop\Nashto\ViaCinema\obj\Debug\netcoreapp2.0\ViaCinema.AssemblyInfoInputs.cache
+C:\Users\Nikolay Penkev\Desktop\Nashto\ViaCinema\obj\Debug\netcoreapp2.0\ViaCinema.AssemblyInfo.cs
+C:\Users\Nikolay Penkev\Desktop\Nashto\ViaCinema\obj\Debug\netcoreapp2.0\ViaCinema.dll
+C:\Users\Nikolay Penkev\Desktop\Nashto\ViaCinema\obj\Debug\netcoreapp2.0\ViaCinema.pdb
